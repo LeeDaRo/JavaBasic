@@ -75,7 +75,7 @@ public class Lotto01 {
             temp = lottoNum6;
         }
         sortedNum1 =temp;
-        System.out.printf("최솟갑  : " + sortedNum1);
+        System.out.printf("최솟값  : " + sortedNum1);
 
 
     }
